@@ -6,3 +6,4 @@ rouge-score
 PyPDF2
 sentencepiece
 protobuf
+gunicorn
