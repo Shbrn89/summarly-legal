@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+scikit-learn
+rouge-score
+PyPDF2
+sentencepiece
+protobuf
